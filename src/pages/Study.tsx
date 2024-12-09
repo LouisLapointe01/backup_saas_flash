@@ -77,7 +77,7 @@ export function Study() {
       }
 
       setCurrentIndex(newIndex);
-    }, 800);
+    }, 400);
   };
 
   const handleShuffle = () => {

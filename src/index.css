@@ -33,3 +33,20 @@
   transform: rotateY(0deg);
   transition: transform 300ms;
 }
+
+.pastel-green {
+  background-color: #82968d; /* Vert pastel */
+}
+
+.pastel-orange {
+  background-color: #d76004; /* Orange pastel */
+}
+
+.card-text {
+  opacity: 1;
+  transition: opacity 200ms ease-in-out;
+}
+
+.card-text-hidden {
+  opacity: 0;
+}
